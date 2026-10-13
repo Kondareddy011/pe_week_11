@@ -1,1 +1,4 @@
-# pe_week_11
+Install optional dependencies: %pip install -q langchain-core langchain-google-genai
+a dragon and a knight -> Sir Gideon, his armor gleaming, finally stood before the ancient dragon, ready for the legendary battle. The colossal beast, instead of breathing fire, merely blinked its enormous golden eyes and nudged a pile of sparkling gems towards the knight with its snout. Confused, Gideon realized this wasn't a challenge, but an invitation to share.
+a lost spaceship -> The *Odyssey* had been adrift for centuries, its navigation systems fried by a rogue solar flare. Deep within an uncharted nebula, its hull glittered with a million tiny ice crystals, reflecting the alien starlight. No one knew it was there, a silent, frozen tomb hurtling through the cosmic dark.
+<img width="1690" height="89" alt="image" src="https://github.com/user-attachments/assets/62c9efbc-948e-4ec3-a6b5-a85af78b70dd" />
